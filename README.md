@@ -1,4 +1,4 @@
-# fakeai
+# FakeAI
 Imitating Human Responses
 
 Check out the website:
